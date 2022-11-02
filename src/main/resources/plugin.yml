@@ -1,0 +1,5 @@
+name: PluginProtection
+version: '${project.version}'
+main: de.yuze.pluginprotection.PluginProtection
+api-version: 1.19
+authors: [ YuZe152 ]
